@@ -1,3 +1,3 @@
-# Generative-AI--Project-on-image-denoise-by-autoencoder
+# Generative-AI--
 This is a repository where all my Generative AI files are stored
 
